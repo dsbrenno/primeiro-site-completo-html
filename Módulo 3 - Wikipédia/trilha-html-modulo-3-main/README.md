@@ -12,8 +12,7 @@ Fiquem a vontade para criar da forma que desejarem, e sobre os temas que quisere
 
 Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais fácil de entenderem como proceder.
 
-## Links úteis
-- [Download do NVDA](https://www.nvaccess.org/download/)
-- [Wikipedia](https://pt.wikipedia.org/)
+## Minhas palavras
+Agora tive um novo desafio, melhorar a interface do Wikipédia mais moderna e fazer sobre algum assunto que eu gostasse, então fiz sobre dois jogos que eu bem bacana, Cat Quest e Cat Quest 2.
 
-
+A parada é que, eu precisava melhorar a semântica do html que o Professor já tinha disponibilizado, então vou deixar aqui o que eu fiz, não sei se está 100% mas pelo menos uns 60% está, rs!
